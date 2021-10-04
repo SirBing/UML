@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T18:48:16.566Z" agent="5.0 (Macintosh)" etag="kREDw71e0enLbkuagDFg" version="15.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-04T20:37:20.109Z" agent="5.0 (Macintosh)" etag="Blu7JCddzcMJRlU-nPo8" version="15.4.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2253" dy="1866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -244,6 +244,18 @@
         </mxCell>
         <mxCell id="4is07RZS0RkD9Gv5ySDK-48" value="+ UserCostPresenter&#xa;(IUserCost userCost)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="4is07RZS0RkD9Gv5ySDK-45">
           <mxGeometry y="60" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4is07RZS0RkD9Gv5ySDK-51" value="&lt;div&gt;Offenen Anfragen:&lt;/div&gt;&lt;div&gt;-Anfrage ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;-verknüpft mit Employee ID&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-230" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4is07RZS0RkD9Gv5ySDK-52" value="&lt;div&gt;Genehmigten Budgets&lt;/div&gt;&lt;div&gt;- Budget ID&lt;/div&gt;&lt;div&gt;- verknüpft mit Employee ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-440" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4is07RZS0RkD9Gv5ySDK-53" value="&lt;div&gt;Kosten:&lt;/div&gt;&lt;div&gt;-Kosten ID&lt;br&gt;&lt;/div&gt;&lt;div&gt;- verknüpft mit Budget ID&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1480" y="-440" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4is07RZS0RkD9Gv5ySDK-54" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Employee&lt;/div&gt;&lt;div&gt;- Employee ID&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1070" y="-320" width="160" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
