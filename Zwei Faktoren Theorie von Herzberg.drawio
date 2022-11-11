@@ -1,46 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-10-05T13:14:20.818Z" agent="5.0 (Macintosh)" etag="i2WqsfUgyPwuRtdhD8Jt" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-11T12:44:49.147Z" agent="5.0 (Macintosh)" etag="5Gxy-r58AiL4RA7urTt5" version="20.4.0" type="github">
   <diagram id="uczUBA8_z0O93UVRRs5l" name="Page-1">
-    <mxGraphModel dx="1788" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1469" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="-70" y="260" width="520" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.1;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="600" as="sourcePoint" />
             <mxPoint x="80" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-5" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="600" as="sourcePoint" />
             <mxPoint x="400" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-6" value="Hohe Unzufriedenheit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-6" value="Hohe Unzufriedenheit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="-50" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-7" value="Neutraler Zustand" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-7" value="Neutraler Zustand" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-50" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-8" value="Hohe Zufriedenheit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-8" value="Hohe Zufriedenheit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="-50" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-10" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Hygienefaktoren&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Arbeitsbedingungen&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Soziale Beziehungen&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Organisation und Firmenpolitik&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Entlohnung&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Sicherheit des Arbeitsplatzes&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-10" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Hygienefaktoren&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Arbeitsbedingungen&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Soziale Beziehungen&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Organisation und Firmenpolitik&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Entlohnung&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Sicherheit des Arbeitsplatzes&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="150" y="464" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-11" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Motivatoren&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Die Tätigkeit selbst&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Möglichkeit etwas zu leisten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Weiterentwicklungsmöglichkeiten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Verantwortung&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Aufstiegsmöglichkeiten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Anerkennung&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-11" value="&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Motivatoren&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;Die Tätigkeit selbst&lt;br&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Möglichkeit etwas zu leisten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Weiterentwicklungsmöglichkeiten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Verantwortung&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Aufstiegsmöglichkeiten&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;&quot;&gt;Anerkennung&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="150" y="300" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-14" value="Zufriedenheit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-14" value="Zufriedenheit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="9" y="270" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-16" value="Anzahl erfüllter Herzberg- Faktoren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-16" value="Anzahl erfüllter Herzberg- Faktoren" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="360" y="560" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-17" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeWidth=3;fontSize=12;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-17" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeWidth=3;fontSize=12;endFill=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="600" as="sourcePoint" />
             <mxPoint x="240" y="440" as="targetPoint" />
@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="PtUw6m8xhyBdWcHQlaFT-18" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeWidth=3;fontSize=12;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1">
+        <mxCell id="PtUw6m8xhyBdWcHQlaFT-18" value="" style="curved=1;endArrow=none;html=1;rounded=0;strokeWidth=3;fontSize=12;endFill=0;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="440" as="sourcePoint" />
             <mxPoint x="380" y="300" as="targetPoint" />
@@ -59,6 +59,15 @@
               <mxPoint x="380" y="330" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="500" y="260" width="520" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-2" value="&lt;div&gt;Stakeholder Interessen&lt;/div&gt;&lt;div&gt;Stakeholder Management&lt;/div&gt;&lt;div&gt;Mitarbeitendengruppen&lt;/div&gt;&lt;div&gt;Regierung&lt;/div&gt;&lt;div&gt;Community&lt;/div&gt;&lt;div&gt;Gewerkschaft&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="280" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-3" value="&lt;div&gt;Situative Faktoren&lt;/div&gt;&lt;div&gt;Belegschaftscharakteristika&lt;/div&gt;&lt;div&gt;Geschäftsstrategie&lt;/div&gt;&lt;div&gt;und -bedingungen&lt;/div&gt;&lt;div&gt;Führungsphilosophie&lt;/div&gt;&lt;div&gt;Arbeitsmarkt&lt;/div&gt;&lt;div&gt;Gewerkschaften&lt;/div&gt;&lt;div&gt;Aufgabentechnik&lt;/div&gt;&lt;div&gt;Gesetze und soziale Werte&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="440" width="120" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
