@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-11T12:44:49.147Z" agent="5.0 (Macintosh)" etag="5Gxy-r58AiL4RA7urTt5" version="20.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-14T16:03:37.802Z" agent="5.0 (Macintosh)" etag="mrYyoH2DfyyEZmL_JswW" version="20.4.0" type="github">
   <diagram id="uczUBA8_z0O93UVRRs5l" name="Page-1">
-    <mxGraphModel dx="1469" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -61,13 +61,57 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DB7BltHiSx6Nf9oWwGhy-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="500" y="260" width="520" height="380" as="geometry" />
+          <mxGeometry x="500" y="260" width="610" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="DB7BltHiSx6Nf9oWwGhy-2" value="&lt;div&gt;Stakeholder Interessen&lt;/div&gt;&lt;div&gt;Stakeholder Management&lt;/div&gt;&lt;div&gt;Mitarbeitendengruppen&lt;/div&gt;&lt;div&gt;Regierung&lt;/div&gt;&lt;div&gt;Community&lt;/div&gt;&lt;div&gt;Gewerkschaft&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="120" height="130" as="geometry" />
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-2" value="&lt;div&gt;&lt;b&gt;Stakeholder Interessen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Stakeholder Management&lt;/div&gt;&lt;div&gt;Mitarbeitendengruppen&lt;/div&gt;&lt;div&gt;Regierung&lt;/div&gt;&lt;div&gt;Community&lt;/div&gt;&lt;div&gt;Gewerkschaft&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="270" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="DB7BltHiSx6Nf9oWwGhy-3" value="&lt;div&gt;Situative Faktoren&lt;/div&gt;&lt;div&gt;Belegschaftscharakteristika&lt;/div&gt;&lt;div&gt;Geschäftsstrategie&lt;/div&gt;&lt;div&gt;und -bedingungen&lt;/div&gt;&lt;div&gt;Führungsphilosophie&lt;/div&gt;&lt;div&gt;Arbeitsmarkt&lt;/div&gt;&lt;div&gt;Gewerkschaften&lt;/div&gt;&lt;div&gt;Aufgabentechnik&lt;/div&gt;&lt;div&gt;Gesetze und soziale Werte&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="120" height="160" as="geometry" />
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-3" target="DB7BltHiSx6Nf9oWwGhy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-3" value="&lt;div&gt;&lt;b&gt;Situative Faktoren&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Belegschaftscharakteristika&lt;/div&gt;&lt;div&gt;Geschäftsstrategie&lt;/div&gt;&lt;div&gt;und -bedingungen&lt;/div&gt;&lt;div&gt;Führungsphilosophie&lt;/div&gt;&lt;div&gt;Arbeitsmarkt&lt;/div&gt;&lt;div&gt;Gewerkschaften&lt;/div&gt;&lt;div&gt;Aufgabentechnik&lt;/div&gt;&lt;div&gt;Gesetze und soziale Werte&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="440" width="150" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="550" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="760" y="550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-4" target="DB7BltHiSx6Nf9oWwGhy-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-4" value="&lt;div&gt;&lt;b&gt;HRM Richtlinienentscheidungen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Einfluss auf Mitarbeitende&lt;/div&gt;&lt;div&gt;Human Resource Strömung&lt;/div&gt;&lt;div&gt;Belohnungssysteme&lt;/div&gt;&lt;div&gt;Arbeitssysteme&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="373" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-5" target="DB7BltHiSx6Nf9oWwGhy-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-5" value="&lt;div&gt;&lt;b&gt;HR Ergebnisse&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Engagement&lt;/div&gt;&lt;div&gt;Kompetenz&lt;/div&gt;&lt;div&gt;Übereinstimmung&lt;/div&gt;&lt;div&gt;Kosten-Effektivität&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="373" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.675;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-6" target="DB7BltHiSx6Nf9oWwGhy-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-6" target="DB7BltHiSx6Nf9oWwGhy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-6" value="&lt;div&gt;&lt;b&gt;Langfristige Auswirkungen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Individuelles Wohlbefinden&lt;/div&gt;&lt;div&gt;Organisationale Effektivität&lt;/div&gt;&lt;div&gt;Soziales Wohlbefinden&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="986" y="373" width="110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="385" as="sourcePoint" />
+            <mxPoint x="680" y="387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DB7BltHiSx6Nf9oWwGhy-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=1;exitY=0.188;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="DB7BltHiSx6Nf9oWwGhy-3" target="DB7BltHiSx6Nf9oWwGhy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="440" as="sourcePoint" />
+            <mxPoint x="810" y="390" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
